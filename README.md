@@ -1,4 +1,4 @@
 # Git-Begin
-My first git repository.
+Zumba Classes
 <br>
 Author - Anshuman Nayak
